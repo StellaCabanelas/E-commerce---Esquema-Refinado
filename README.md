@@ -41,5 +41,4 @@ O diagrama é composto por várias entidades principais:
 - Estrutura escalável para futuras funcionalidades, como promoções e avaliações.
 
 ## 📷 Diagrama
-![Diagrama Conceitual do E-Commerce](E-commerce%20Refinado.png)
-<img src="file:///C:/Users/Stella%20C.%20Aranha/Downloads/E-commerce%20Refinado.png" alt="Diagrama Conceitual do E-Commerce">
+<img width="860" height="1058" alt="Image" src="https://github.com/user-attachments/assets/3177e403-e835-4e61-bb8f-c995fcd9a898" />
